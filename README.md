@@ -83,7 +83,7 @@ git clone https://github.com/carecodeconnect/automated-project-template-setup.gi
 # with SSH 
 git clone git@github.com:carecodeconnect/automated-project-template-setup.git
 # make the file executable
-chmod +x script_name.sh
+chmod +x setup_project.sh
 ```
 
 # Usage
